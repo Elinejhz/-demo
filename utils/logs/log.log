@@ -1,0 +1,155 @@
+[2022-09-04 23:41:19] [INFO] [testcase_controller.py]/[line: 37]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-04 23:41:20] [INFO] [testcase_controller.py]/[line: 41]/[post] 查询表结果：None 
+[2022-09-04 23:45:55] [INFO] [testcase_controller.py]/[line: 39]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-04 23:45:56] [INFO] [testcase_controller.py]/[line: 43]/[post] 查询表结果：None 
+[2022-09-04 23:47:34] [INFO] [testcase_controller.py]/[line: 39]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-04 23:47:34] [INFO] [testcase_controller.py]/[line: 43]/[post] 查询表结果：None 
+[2022-09-04 23:49:56] [INFO] [testcase_controller.py]/[line: 39]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-04 23:49:56] [INFO] [testcase_controller.py]/[line: 43]/[post] 查询表结果：None 
+[2022-09-04 23:49:56] [INFO] [testcase_controller.py]/[line: 44]/[post] 转换结果：{"id": 0, "uid": "string", "remark": "string"} 
+[2022-09-05 00:08:31] [INFO] [testcase_controller.py]/[line: 39]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-05 00:08:31] [INFO] [testcase_controller.py]/[line: 43]/[post] 查询表结果：None 
+[2022-09-05 00:08:31] [INFO] [testcase_controller.py]/[line: 44]/[post] 转换结果：{"id": 0, "uid": "string", "remark": "string"} 
+[2022-09-05 00:10:31] [INFO] [testcase_controller.py]/[line: 39]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-05 00:10:32] [INFO] [testcase_controller.py]/[line: 43]/[post] 查询表结果：None 
+[2022-09-05 00:10:32] [INFO] [testcase_controller.py]/[line: 44]/[post] 转换结果：{"id": 0, "uid": "string", "remark": "string"} 
+[2022-09-05 00:29:28] [INFO] [testcase_controller.py]/[line: 39]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-05 00:29:28] [INFO] [testcase_controller.py]/[line: 43]/[post] 查询表结果：None 
+[2022-09-05 00:29:28] [INFO] [testcase_controller.py]/[line: 44]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-05 00:31:16] [INFO] [testcase_controller.py]/[line: 28]/[get] [] 
+[2022-09-05 00:32:37] [INFO] [testcase_controller.py]/[line: 28]/[get] <class 'list'> 
+[2022-09-05 00:38:07] [INFO] [testcase_controller.py]/[line: 40]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-05 00:38:07] [INFO] [testcase_controller.py]/[line: 44]/[post] 查询表结果：None 
+[2022-09-05 00:38:07] [INFO] [testcase_controller.py]/[line: 45]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-05 00:39:39] [INFO] [testcase_controller.py]/[line: 40]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-05 00:39:39] [INFO] [testcase_controller.py]/[line: 44]/[post] 查询表结果：None 
+[2022-09-05 00:39:39] [INFO] [testcase_controller.py]/[line: 45]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-05 00:40:44] [INFO] [testcase_controller.py]/[line: 40]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-05 00:40:44] [INFO] [testcase_controller.py]/[line: 44]/[post] 查询表结果：None 
+[2022-09-05 00:40:44] [INFO] [testcase_controller.py]/[line: 45]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-05 00:43:14] [INFO] [testcase_controller.py]/[line: 40]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-05 00:43:14] [INFO] [testcase_controller.py]/[line: 44]/[post] 查询表结果：None 
+[2022-09-05 00:43:14] [INFO] [testcase_controller.py]/[line: 45]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-05 00:44:15] [INFO] [testcase_controller.py]/[line: 40]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-05 00:44:15] [INFO] [testcase_controller.py]/[line: 44]/[post] 查询表结果：None 
+[2022-09-05 00:44:15] [INFO] [testcase_controller.py]/[line: 45]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-05 00:45:53] [INFO] [testcase_controller.py]/[line: 40]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string11', 'remark': 'string11'} 
+[2022-09-05 00:45:53] [INFO] [testcase_controller.py]/[line: 44]/[post] 查询表结果：None 
+[2022-09-05 00:45:53] [INFO] [testcase_controller.py]/[line: 45]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-05 00:59:16] [INFO] [testcase_controller.py]/[line: 40]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-05 00:59:17] [INFO] [testcase_controller.py]/[line: 44]/[post] 查询表结果：None 
+[2022-09-05 00:59:17] [INFO] [testcase_controller.py]/[line: 45]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-05 00:59:51] [INFO] [testcase_controller.py]/[line: 50]/[post] 将要存储的内容为<======True 
+[2022-09-07 18:05:23] [INFO] [testcase_controller.py]/[line: 28]/[get] <class 'list'> 
+[2022-09-07 18:06:25] [INFO] [testcase_controller.py]/[line: 40]/[post] 接收到的参数<====== {'id': 2, 'uid': 'string22', 'remark': '22string'} 
+[2022-09-07 18:06:25] [INFO] [testcase_controller.py]/[line: 44]/[post] 查询表结果：<TestcaseDo 2> 
+[2022-09-07 18:06:25] [INFO] [testcase_controller.py]/[line: 45]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-07 18:06:43] [INFO] [testcase_controller.py]/[line: 40]/[post] 接收到的参数<====== {'id': 3, 'uid': 'string2233', 'remark': '2233string'} 
+[2022-09-07 18:06:43] [INFO] [testcase_controller.py]/[line: 44]/[post] 查询表结果：None 
+[2022-09-07 18:06:43] [INFO] [testcase_controller.py]/[line: 45]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-07 18:06:43] [INFO] [testcase_controller.py]/[line: 50]/[post] 将要存储的内容为<======True 
+[2022-09-07 18:07:04] [INFO] [testcase_controller.py]/[line: 40]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string44', 'remark': 'string44'} 
+[2022-09-07 18:07:04] [INFO] [testcase_controller.py]/[line: 44]/[post] 查询表结果：None 
+[2022-09-07 18:07:04] [INFO] [testcase_controller.py]/[line: 45]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-07 18:07:04] [INFO] [testcase_controller.py]/[line: 50]/[post] 将要存储的内容为<======True 
+[2022-09-07 18:31:13] [INFO] [testcase_controller.py]/[line: 40]/[post] 接收到的参数<====== {'id': 0, 'uid': 'strin55g', 'remark': 'string55'} 
+[2022-09-07 18:31:13] [INFO] [testcase_controller.py]/[line: 45]/[post] 查询表结果：None 
+[2022-09-07 18:31:13] [INFO] [testcase_controller.py]/[line: 46]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-07 18:40:50] [INFO] [testcase_controller.py]/[line: 41]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-07 18:40:50] [INFO] [testcase_controller.py]/[line: 46]/[post] 查询表结果：None 
+[2022-09-07 18:40:50] [INFO] [testcase_controller.py]/[line: 47]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-07 18:40:50] [INFO] [testcase_controller.py]/[line: 64]/[post] 根据id查询表结果为：None 
+[2022-09-07 18:40:50] [INFO] [testcase_controller.py]/[line: 65]/[post] 查询表中最新一条数据的id为：5 
+[2022-09-07 18:43:32] [INFO] [testcase_controller.py]/[line: 41]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string', 'remark': 'string'} 
+[2022-09-07 18:43:32] [INFO] [testcase_controller.py]/[line: 46]/[post] 查询表结果：None 
+[2022-09-07 18:43:32] [INFO] [testcase_controller.py]/[line: 47]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-07 18:43:32] [INFO] [testcase_controller.py]/[line: 64]/[post] 根据id查询表结果为：None 
+[2022-09-07 18:43:32] [INFO] [testcase_controller.py]/[line: 65]/[post] 根据uid查询表结果为：[<TestcaseDo 1>] 
+[2022-09-07 18:43:32] [INFO] [testcase_controller.py]/[line: 66]/[post] 查询表中最新一条数据的id为：5 
+[2022-09-07 18:43:43] [INFO] [testcase_controller.py]/[line: 41]/[post] 接收到的参数<====== {'uid': 'string', 'remark': 'string'} 
+[2022-09-07 18:43:43] [INFO] [testcase_controller.py]/[line: 46]/[post] 查询表结果：None 
+[2022-09-07 18:43:43] [INFO] [testcase_controller.py]/[line: 47]/[post] 转换结果：dict_keys(['uid', 'remark']) 
+[2022-09-07 18:43:43] [INFO] [testcase_controller.py]/[line: 64]/[post] 根据id查询表结果为：None 
+[2022-09-07 18:43:43] [INFO] [testcase_controller.py]/[line: 65]/[post] 根据uid查询表结果为：[<TestcaseDo 1>] 
+[2022-09-07 18:43:43] [INFO] [testcase_controller.py]/[line: 66]/[post] 查询表中最新一条数据的id为：5 
+[2022-09-07 18:43:52] [INFO] [testcase_controller.py]/[line: 41]/[post] 接收到的参数<====== {'uid': 'string66', 'remark': 'string66'} 
+[2022-09-07 18:43:52] [INFO] [testcase_controller.py]/[line: 46]/[post] 查询表结果：None 
+[2022-09-07 18:43:52] [INFO] [testcase_controller.py]/[line: 47]/[post] 转换结果：dict_keys(['uid', 'remark']) 
+[2022-09-07 18:43:52] [INFO] [testcase_controller.py]/[line: 64]/[post] 根据id查询表结果为：None 
+[2022-09-07 18:43:52] [INFO] [testcase_controller.py]/[line: 65]/[post] 根据uid查询表结果为：[] 
+[2022-09-07 18:43:52] [INFO] [testcase_controller.py]/[line: 66]/[post] 查询表中最新一条数据的id为：5 
+[2022-09-07 18:43:52] [INFO] [testcase_controller.py]/[line: 75]/[post] 将要存储的内容为<======True 
+[2022-09-07 18:44:38] [INFO] [testcase_controller.py]/[line: 41]/[post] 接收到的参数<====== {'id': 7, 'uid': 'string', 'remark': 'string'} 
+[2022-09-07 18:44:38] [INFO] [testcase_controller.py]/[line: 46]/[post] 查询表结果：<TestcaseDo 7> 
+[2022-09-07 18:44:38] [INFO] [testcase_controller.py]/[line: 47]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-07 18:44:38] [INFO] [testcase_controller.py]/[line: 64]/[post] 根据id查询表结果为：<TestcaseDo 7> 
+[2022-09-07 18:44:38] [INFO] [testcase_controller.py]/[line: 65]/[post] 根据uid查询表结果为：[<TestcaseDo 1>] 
+[2022-09-07 18:44:38] [INFO] [testcase_controller.py]/[line: 66]/[post] 查询表中最新一条数据的id为：7 
+[2022-09-07 18:44:47] [INFO] [testcase_controller.py]/[line: 41]/[post] 接收到的参数<====== {'id': 7, 'uid': 'string88', 'remark': 'string88'} 
+[2022-09-07 18:44:47] [INFO] [testcase_controller.py]/[line: 46]/[post] 查询表结果：<TestcaseDo 7> 
+[2022-09-07 18:44:47] [INFO] [testcase_controller.py]/[line: 47]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-07 18:44:47] [INFO] [testcase_controller.py]/[line: 64]/[post] 根据id查询表结果为：<TestcaseDo 7> 
+[2022-09-07 18:44:47] [INFO] [testcase_controller.py]/[line: 65]/[post] 根据uid查询表结果为：[] 
+[2022-09-07 18:44:47] [INFO] [testcase_controller.py]/[line: 66]/[post] 查询表中最新一条数据的id为：7 
+[2022-09-07 18:45:27] [INFO] [testcase_controller.py]/[line: 41]/[post] 接收到的参数<====== {'id': 0, 'uid': 'string88', 'remark': 'string88'} 
+[2022-09-07 18:45:27] [INFO] [testcase_controller.py]/[line: 46]/[post] 查询表结果：None 
+[2022-09-07 18:45:27] [INFO] [testcase_controller.py]/[line: 47]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-07 18:45:27] [INFO] [testcase_controller.py]/[line: 64]/[post] 根据id查询表结果为：None 
+[2022-09-07 18:45:27] [INFO] [testcase_controller.py]/[line: 65]/[post] 根据uid查询表结果为：[] 
+[2022-09-07 18:45:27] [INFO] [testcase_controller.py]/[line: 66]/[post] 查询表中最新一条数据的id为：7 
+[2022-09-07 18:45:27] [INFO] [testcase_controller.py]/[line: 75]/[post] 将要存储的内容为<======True 
+[2022-09-07 18:47:42] [INFO] [testcase_controller.py]/[line: 94]/[put] 接收到的参数<====== {'id': 8, 'uid': 'string456', 'remark': 'strin667g'} 
+[2022-09-07 18:47:42] [INFO] [testcase_controller.py]/[line: 98]/[put] 查询表结果：<TestcaseDo 8> 
+[2022-09-07 18:48:29] [INFO] [testcase_controller.py]/[line: 94]/[put] 接收到的参数<====== {'id': 8, 'uid': 'string45wwe6', 'remark': 'strin667g'} 
+[2022-09-07 18:48:29] [INFO] [testcase_controller.py]/[line: 98]/[put] 查询表结果：<TestcaseDo 8> 
+[2022-09-07 18:59:08] [INFO] [testcase_controller.py]/[line: 94]/[put] 接收到的参数<====== {'id': 8, 'uid': 'strwering', 'remark': 'strsssing'} 
+[2022-09-07 18:59:08] [INFO] [testcase_controller.py]/[line: 95]/[put] 接收到的cookie<====== csrftoken=lw4bNGsPktzdUrZz2QWIhPk4IlRnUmMk000UL470kgj0GKMzURxvbJLJ59eaRm65 
+[2022-09-07 18:59:08] [INFO] [testcase_controller.py]/[line: 99]/[put] 查询表结果：<TestcaseDo 8> 
+[2022-09-07 19:03:57] [INFO] [testcase_controller.py]/[line: 94]/[put] 接收到的参数<====== {'id': 8, 'uid': 'stringghjg', 'remark': 'striklng'} 
+[2022-09-07 19:15:16] [INFO] [testcase_controller.py]/[line: 94]/[put] 接收到的参数<====== {'id': 0, 'uid': 'strin678g', 'remark': 'stri8907ng'} 
+[2022-09-07 19:15:16] [INFO] [testcase_controller.py]/[line: 95]/[put] 接收到的cookie<====== csrftoken 
+[2022-09-07 19:15:17] [INFO] [testcase_controller.py]/[line: 99]/[put] 查询表结果：None 
+[2022-09-07 19:15:31] [INFO] [testcase_controller.py]/[line: 94]/[put] 接收到的参数<====== {'id': 8, 'uid': 'strin678g', 'remark': 'stri8907ng'} 
+[2022-09-07 19:15:31] [INFO] [testcase_controller.py]/[line: 95]/[put] 接收到的cookie<====== csrftoken 
+[2022-09-07 19:15:31] [INFO] [testcase_controller.py]/[line: 99]/[put] 查询表结果：<TestcaseDo 8> 
+[2022-09-07 19:19:52] [INFO] [testcase_controller.py]/[line: 94]/[put] 接收到的参数<====== {'id': 8, 'uid': 'string333', 'remark': 'strin6678g'} 
+[2022-09-07 19:19:52] [INFO] [testcase_controller.py]/[line: 97]/[put] 接收到的cookie信息是<====== {'csrftoken': 'lw4bNGsPktzdUrZz2QWIhPk4IlRnUmMk000UL470kgj0GKMzURxvbJLJ59eaRm65'} 
+[2022-09-07 19:19:53] [INFO] [testcase_controller.py]/[line: 101]/[put] 查询表结果：<TestcaseDo 8> 
+[2022-09-07 19:22:10] [INFO] [testcase_controller.py]/[line: 94]/[put] 接收到的参数<====== {'id': 8, 'uid': 'striwerqng', 'remark': 'strinsddddg'} 
+[2022-09-07 19:22:11] [INFO] [testcase_controller.py]/[line: 101]/[put] 查询表结果：<TestcaseDo 8> 
+[2022-09-07 19:22:40] [INFO] [testcase_controller.py]/[line: 94]/[put] 接收到的参数<====== {'id': 9, 'uid': 'striwerqng', 'remark': 'strinsddddg'} 
+[2022-09-07 19:22:40] [INFO] [testcase_controller.py]/[line: 101]/[put] 查询表结果：None 
+[2022-09-07 19:24:19] [INFO] [testcase_controller.py]/[line: 41]/[post] 接收到的参数<====== {'id': 0, 'uid': 'stri99ng', 'remark': 'strin99g'} 
+[2022-09-07 19:24:19] [INFO] [testcase_controller.py]/[line: 46]/[post] 查询表结果：None 
+[2022-09-07 19:24:19] [INFO] [testcase_controller.py]/[line: 47]/[post] 转换结果：dict_keys(['id', 'uid', 'remark']) 
+[2022-09-07 19:24:19] [INFO] [testcase_controller.py]/[line: 64]/[post] 根据id查询表结果为：None 
+[2022-09-07 19:24:19] [INFO] [testcase_controller.py]/[line: 65]/[post] 根据uid查询表结果为：[] 
+[2022-09-07 19:24:19] [INFO] [testcase_controller.py]/[line: 66]/[post] 查询表中最新一条数据的id为：8 
+[2022-09-07 19:24:19] [INFO] [testcase_controller.py]/[line: 75]/[post] 将要存储的内容为<======True 
+[2022-09-07 19:24:28] [INFO] [testcase_controller.py]/[line: 120]/[delete] 接收到的参数id <=====0 
+[2022-09-07 19:24:39] [INFO] [testcase_controller.py]/[line: 120]/[delete] 接收到的参数id <=====9 
+[2022-09-07 19:25:22] [INFO] [testcase_controller.py]/[line: 120]/[delete] 接收到的参数id <=====9 
+[2022-09-07 19:58:56] [INFO] [testcase_controller.py]/[line: 24]/[get] <class 'list'> 
+[2022-09-07 19:59:14] [INFO] [testcase_controller.py]/[line: 36]/[post] 接收到的参数<====== {'id': 0, 'case_title': 'stringeee', 'remark': 'string009'} 
+[2022-09-07 19:59:14] [INFO] [testcase_controller.py]/[line: 41]/[post] 查询表结果：None 
+[2022-09-07 19:59:14] [INFO] [testcase_controller.py]/[line: 42]/[post] 转换结果：dict_keys(['id', 'case_title', 'remark']) 
+[2022-09-07 19:59:15] [INFO] [testcase_controller.py]/[line: 59]/[post] 根据id查询表结果为：None 
+[2022-09-07 19:59:15] [INFO] [testcase_controller.py]/[line: 60]/[post] 根据case_title查询表结果为：[] 
+[2022-09-07 19:59:15] [INFO] [testcase_controller.py]/[line: 61]/[post] 查询表中最新一条数据的id为：8 
+[2022-09-07 19:59:15] [INFO] [testcase_controller.py]/[line: 70]/[post] 将要存储的内容为<======True 
+[2022-09-07 19:59:33] [INFO] [testcase_controller.py]/[line: 89]/[put] 接收到的参数<====== {'id': 9, 'case_title': 'string089', 'remark': 'stringrteee'} 
+[2022-09-07 19:59:33] [INFO] [testcase_controller.py]/[line: 96]/[put] 查询表结果：None 
+[2022-09-07 19:59:50] [INFO] [testcase_controller.py]/[line: 89]/[put] 接收到的参数<====== {'id': 9, 'case_title': 'string089', 'remark': 'stringrteee'} 
+[2022-09-07 19:59:50] [INFO] [testcase_controller.py]/[line: 96]/[put] 查询表结果：None 
+[2022-09-07 20:00:11] [INFO] [testcase_controller.py]/[line: 89]/[put] 接收到的参数<====== {'id': 10, 'case_title': 'string089', 'remark': 'stringrteee'} 
+[2022-09-07 20:00:11] [INFO] [testcase_controller.py]/[line: 96]/[put] 查询表结果：<TestcaseDo 10> 
+[2022-09-07 20:00:29] [INFO] [testcase_controller.py]/[line: 36]/[post] 接收到的参数<====== {'id': 0, 'case_title': 'stringqqqqeee', 'remark': 'string009'} 
+[2022-09-07 20:00:29] [INFO] [testcase_controller.py]/[line: 41]/[post] 查询表结果：None 
+[2022-09-07 20:00:29] [INFO] [testcase_controller.py]/[line: 42]/[post] 转换结果：dict_keys(['id', 'case_title', 'remark']) 
+[2022-09-07 20:00:29] [INFO] [testcase_controller.py]/[line: 59]/[post] 根据id查询表结果为：None 
+[2022-09-07 20:00:29] [INFO] [testcase_controller.py]/[line: 60]/[post] 根据case_title查询表结果为：[] 
+[2022-09-07 20:00:29] [INFO] [testcase_controller.py]/[line: 61]/[post] 查询表中最新一条数据的id为：10 
+[2022-09-07 20:00:29] [INFO] [testcase_controller.py]/[line: 70]/[post] 将要存储的内容为<======True 
+[2022-09-07 20:00:50] [INFO] [testcase_controller.py]/[line: 89]/[put] 接收到的参数<====== {'id': 11, 'case_title': 'string08ww9', 'remark': 'stringrteee'} 
+[2022-09-07 20:00:50] [INFO] [testcase_controller.py]/[line: 96]/[put] 查询表结果：<TestcaseDo 11> 
+[2022-09-07 20:01:04] [INFO] [testcase_controller.py]/[line: 115]/[delete] 接收到的参数id <=====11 
